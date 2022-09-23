@@ -48,16 +48,16 @@ https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA
 
 ## 安装
 
- ![image-20220923205653176](F:\红队\14-Fj插件编写\BurpFastJsonScan-main\images\image-20220923205653176.png)
+ ![image-20220923205653176](https://github.com/xunyang1/FastjsonScan/blob/main/images/image-20220923205653176.png)
 
 将target\BurpFastJsonScan下jar包导入
 
 ## 效果展示
 
-![image-20220923212341248](F:\红队\14-Fj插件编写\BurpFastJsonScan-main\images\image-20220923212341248.png)
+![image-20220923212341248](https://github.com/xunyang1/FastjsonScan/blob/main/images/image-20220923212341248.png)
 
-![image-20220923212355278](F:\红队\14-Fj插件编写\BurpFastJsonScan-main\images\image-20220923212355278.png)
+![image-20220923212355278](https://github.com/xunyang1/FastjsonScan/blob/main/images/image-20220923212355278.png)
 
-![image-20220923212404351](F:\红队\14-Fj插件编写\BurpFastJsonScan-main\images\image-20220923212404351.png)
+![image-20220923212404351](https://github.com/xunyang1/FastjsonScan/blob/main/images/image-20220923212404351.png)
 
-![image-20220923212444871](F:\红队\14-Fj插件编写\BurpFastJsonScan-main\images\image-20220923212444871.png)
+![image-20220923212444871](https://github.com/xunyang1/FastjsonScan/blob/main/images/image-20220923212444871.png)
